@@ -1,12 +1,14 @@
+# ney's bot template
 > A badly written discord.js bot skeleton :)
 
 ### Table of Content
 
-- [Table of Content](#table-of-content)
-- [Prerequisites](#prerequisites)
-- [Installation & Setup](#installation--setup)
-- [Configuration](#configuration)
-- [How to add stuff](#how-to-add-stuff)
+- [ney's bot template](#neys-bot-template)
+    - [Table of Content](#table-of-content)
+    - [Prerequisites](#prerequisites)
+    - [Installation & Setup](#installation--setup)
+    - [Configuration](#configuration)
+    - [How to add stuff](#how-to-add-stuff)
 
 
 ### Prerequisites
