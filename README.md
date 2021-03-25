@@ -1,15 +1,12 @@
-# neyoa's bot template
-
 > A badly written discord.js bot skeleton :)
 
 ### Table of Content
 
-- [neyoa's bot template](#neyoas-bot-template)
-    - [Table of Content](#table-of-content)
-    - [Prerequisites](#prerequisites)
-    - [Installation & Setup](#installation--setup)
-    - [Configuration](#configuration)
-    - [How to add stuff](#how-to-add-stuff)
+- [Table of Content](#table-of-content)
+- [Prerequisites](#prerequisites)
+- [Installation & Setup](#installation--setup)
+- [Configuration](#configuration)
+- [How to add stuff](#how-to-add-stuff)
 
 
 ### Prerequisites
